@@ -1,4 +1,4 @@
-# AIML_COURSE_PROJECT-2024
+# AIML_COURSE_PROJECT : EchoWizard
 
 Welcome to our project "**EchoWizard**" ! This Python-based project is designed to simplify your daily tasks with voice recognition technology.
 From playing songs on YouTube to fetching information from the web, opening Google, telling jokes, and even sending emails & making calls, 
